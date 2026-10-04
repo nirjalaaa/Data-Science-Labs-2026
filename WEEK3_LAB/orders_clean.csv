@@ -1,0 +1,301 @@
+order_id,customer_id,order_date,category,product,unit_price,quantity,payment_method,revenue,month,customer_name,city,segment
+5285,1046,2026-03-29,Home & Kitchen,Air Fryer,99000.0,1,Card,99000.0,2026-03,Customer_46,Daejeon,Regular
+5171,1042,2026-05-20,Home & Kitchen,Water Bottle,18000.0,1,Card,18000.0,2026-05,Customer_42,Daejeon,Regular
+5151,1043,2026-08-15,Beauty,Face Serum,45000.0,2,KakaoPay,90000.0,2026-08,Customer_43,Daegu,Regular
+5105,1042,2026-07-26,Beauty,Hand Cream,12000.0,2,Card,24000.0,2026-07,Customer_42,Daejeon,Regular
+5038,1049,2026-03-02,Fashion,Winter Jacket,159000.0,1,KakaoPay,159000.0,2026-03,Customer_49,Incheon,Regular
+5102,1031,2026-07-26,Electronics,Wireless Earbuds,59000.0,4,Bank Transfer,236000.0,2026-07,Customer_31,Daegu,Regular
+5267,1028,2026-04-10,Beauty,Sunscreen,22000.0,2,Card,44000.0,2026-04,Customer_28,Seoul,Regular
+5243,1035,2026-03-29,Fashion,Winter Jacket,159000.0,2,Card,318000.0,2026-03,Customer_35,Busan,Regular
+5287,1010,2026-06-27,Fashion,Winter Jacket,159000.0,4,Unknown,636000.0,2026-06,Customer_10,Busan,Regular
+5271,1019,2026-07-31,Fashion,Running Shoes,89000.0,4,KakaoPay,356000.0,2026-07,Customer_19,Daejeon,Regular
+5264,1039,2026-04-26,Electronics,Wireless Earbuds,59000.0,2,Bank Transfer,118000.0,2026-04,Customer_39,Seoul,Regular
+5074,1007,2026-07-09,Fashion,Backpack,49000.0,4,Bank Transfer,196000.0,2026-07,Customer_7,Daegu,Regular
+5282,1048,2026-04-02,Home & Kitchen,Air Fryer,99000.0,1,KakaoPay,99000.0,2026-04,Customer_48,Seoul,Regular
+5281,1022,2026-07-27,Home & Kitchen,Rice Cooker,129000.0,2,Card,258000.0,2026-07,Customer_22,Busan,Regular
+5107,1032,2026-06-07,Fashion,Backpack,49000.0,1,Bank Transfer,49000.0,2026-06,Customer_32,Gwangju,Regular
+5255,1024,2026-05-30,Fashion,Backpack,49000.0,1,Card,49000.0,2026-05,Customer_24,Daejeon,Regular
+5092,1001,2026-06-07,Electronics,Smart Watch,189000.0,1,Unknown,189000.0,2026-06,Customer_1,Daegu,Regular
+5172,1003,2026-08-19,Electronics,Phone Charger,25000.0,2,Card,50000.0,2026-08,Customer_3,Daejeon,Regular
+5058,1047,2026-05-12,Electronics,Wireless Earbuds,59000.0,3,Card,177000.0,2026-05,Customer_47,Busan,Regular
+5081,1006,2026-07-31,Electronics,Smart Watch,189000.0,2,Card,378000.0,2026-07,Customer_6,Gwangju,Regular
+5277,1017,2026-07-13,Fashion,Backpack,49000.0,3,KakaoPay,147000.0,2026-07,Customer_17,Incheon,Regular
+5089,1050,2026-06-26,Electronics,Phone Charger,25000.0,1,Bank Transfer,25000.0,2026-06,Customer_50,Seoul,Premium
+5126,1022,2026-04-05,Home & Kitchen,Rice Cooker,129000.0,3,KakaoPay,387000.0,2026-04,Customer_22,Busan,Regular
+5004,1009,2026-07-21,Electronics,Phone Charger,25000.0,2,Bank Transfer,50000.0,2026-07,Customer_9,Seoul,Regular
+5087,1037,2026-03-24,Fashion,Winter Jacket,159000.0,1,KakaoPay,159000.0,2026-03,Customer_37,Seoul,Regular
+5280,1025,2026-04-20,Home & Kitchen,Rice Cooker,129000.0,2,KakaoPay,258000.0,2026-04,Customer_25,Daegu,Regular
+5195,1044,2026-05-02,Electronics,Wireless Earbuds,59000.0,2,Unknown,118000.0,2026-05,Customer_44,Seoul,Premium
+5162,1049,2026-04-21,Fashion,Backpack,49000.0,3,Bank Transfer,147000.0,2026-04,Customer_49,Incheon,Regular
+5123,1012,2026-03-27,Home & Kitchen,Rice Cooker,129000.0,1,KakaoPay,129000.0,2026-03,Customer_12,Gwangju,Regular
+5218,1030,2026-04-11,Electronics,Phone Charger,25000.0,3,Bank Transfer,75000.0,2026-04,Customer_30,Incheon,Regular
+5031,1030,2026-07-16,Beauty,Hand Cream,12000.0,2,Card,24000.0,2026-07,Customer_30,Incheon,Regular
+5061,1007,2026-07-12,Fashion,Backpack,49000.0,4,KakaoPay,196000.0,2026-07,Customer_7,Daegu,Regular
+5015,1002,2026-04-12,Beauty,Sunscreen,22000.0,1,KakaoPay,22000.0,2026-04,Customer_2,Busan,Regular
+5155,1020,2026-03-04,Fashion,Running Shoes,89000.0,4,Bank Transfer,356000.0,2026-03,Customer_20,Incheon,Premium
+5090,1006,2026-05-16,Beauty,Hand Cream,12000.0,2,Bank Transfer,24000.0,2026-05,Customer_6,Gwangju,Regular
+5226,1001,2026-05-09,Fashion,Winter Jacket,159000.0,3,Card,477000.0,2026-05,Customer_1,Daegu,Regular
+5292,1047,2026-04-07,Beauty,Sunscreen,22000.0,3,KakaoPay,66000.0,2026-04,Customer_47,Busan,Regular
+5177,1002,2026-06-04,Home & Kitchen,Water Bottle,18000.0,4,KakaoPay,72000.0,2026-06,Customer_2,Busan,Regular
+5085,1016,2026-06-04,Beauty,Face Serum,45000.0,2,Card,90000.0,2026-06,Customer_16,Seoul,Regular
+5067,1048,2026-07-21,Electronics,Wireless Earbuds,59000.0,3,Bank Transfer,177000.0,2026-07,Customer_48,Seoul,Regular
+5003,1008,2026-06-27,Electronics,Wireless Earbuds,59000.0,3,Card,177000.0,2026-06,Customer_8,Daegu,Regular
+5274,1014,2026-05-09,Fashion,Running Shoes,89000.0,1,Bank Transfer,89000.0,2026-05,Customer_14,Daejeon,Regular
+5286,1024,2026-03-13,Beauty,Face Serum,45000.0,4,KakaoPay,180000.0,2026-03,Customer_24,Daejeon,Regular
+5066,1019,2026-05-18,Fashion,Running Shoes,89000.0,1,Bank Transfer,89000.0,2026-05,Customer_19,Daejeon,Regular
+5130,1025,2026-05-09,Fashion,Backpack,49000.0,1,Card,49000.0,2026-05,Customer_25,Daegu,Regular
+5075,1030,2026-05-13,Electronics,Smart Watch,189000.0,2,Unknown,378000.0,2026-05,Customer_30,Incheon,Regular
+5207,1021,2026-04-11,Home & Kitchen,Rice Cooker,129000.0,1,Card,129000.0,2026-04,Customer_21,Daegu,Regular
+5140,1009,2026-07-07,Home & Kitchen,Air Fryer,99000.0,2,Bank Transfer,198000.0,2026-07,Customer_9,Seoul,Regular
+5180,1030,2026-07-06,Beauty,Sunscreen,22000.0,2,KakaoPay,44000.0,2026-07,Customer_30,Incheon,Regular
+5174,1037,2026-07-12,Electronics,Smart Watch,189000.0,2,Bank Transfer,378000.0,2026-07,Customer_37,Seoul,Regular
+5142,1008,2026-06-26,Beauty,Hand Cream,12000.0,3,KakaoPay,36000.0,2026-06,Customer_8,Daegu,Regular
+5227,1036,2026-07-31,Fashion,Backpack,49000.0,2,Bank Transfer,98000.0,2026-07,Customer_36,Seoul,Regular
+5112,1005,2026-05-06,Home & Kitchen,Air Fryer,99000.0,4,Card,396000.0,2026-05,Customer_5,Seoul,Regular
+5164,1028,2026-06-25,Beauty,Face Serum,45000.0,4,KakaoPay,180000.0,2026-06,Customer_28,Seoul,Regular
+5071,1011,2026-03-07,Electronics,Smart Watch,189000.0,3,Bank Transfer,567000.0,2026-03,Customer_11,Busan,Regular
+5095,1006,2026-06-07,Fashion,Backpack,49000.0,2,Bank Transfer,98000.0,2026-06,Customer_6,Gwangju,Regular
+5211,1017,2026-04-11,Fashion,Running Shoes,89000.0,3,Card,267000.0,2026-04,Customer_17,Incheon,Regular
+5103,1043,2026-04-21,Beauty,Sunscreen,22000.0,1,Card,22000.0,2026-04,Customer_43,Daegu,Regular
+5019,1003,2026-06-04,Electronics,Wireless Earbuds,59000.0,2,KakaoPay,118000.0,2026-06,Customer_3,Daejeon,Regular
+5082,1033,2026-05-27,Fashion,Running Shoes,89000.0,3,KakaoPay,267000.0,2026-05,Customer_33,Seoul,Regular
+5091,1007,2026-03-23,Beauty,Face Serum,45000.0,2,KakaoPay,90000.0,2026-03,Customer_7,Daegu,Regular
+5242,1005,2026-08-17,Home & Kitchen,Rice Cooker,129000.0,4,Unknown,516000.0,2026-08,Customer_5,Seoul,Regular
+5056,1003,2026-04-20,Beauty,Face Serum,45000.0,1,KakaoPay,45000.0,2026-04,Customer_3,Daejeon,Regular
+5119,1016,2026-03-17,Beauty,Sunscreen,22000.0,3,KakaoPay,66000.0,2026-03,Customer_16,Seoul,Regular
+5200,1033,2026-05-16,Home & Kitchen,Air Fryer,99000.0,2,Unknown,198000.0,2026-05,Customer_33,Seoul,Regular
+5203,1004,2026-06-11,Electronics,Wireless Earbuds,59000.0,4,KakaoPay,236000.0,2026-06,Customer_4,Incheon,Premium
+5147,1025,2026-07-09,Beauty,Face Serum,45000.0,1,Card,45000.0,2026-07,Customer_25,Daegu,Regular
+5241,1040,2026-03-07,Beauty,Sunscreen,22000.0,2,KakaoPay,44000.0,2026-03,Customer_40,Incheon,Premium
+5116,1033,2026-04-16,Fashion,Backpack,49000.0,2,Bank Transfer,98000.0,2026-04,Customer_33,Seoul,Regular
+5023,1005,2026-08-07,Home & Kitchen,Rice Cooker,129000.0,3,Bank Transfer,387000.0,2026-08,Customer_5,Seoul,Regular
+5098,1005,2026-06-21,Electronics,Phone Charger,25000.0,3,Unknown,75000.0,2026-06,Customer_5,Seoul,Regular
+5133,1038,2026-03-12,Fashion,Running Shoes,89000.0,2,Card,178000.0,2026-03,Customer_38,Busan,Regular
+5229,1008,2026-07-18,Electronics,Wireless Earbuds,59000.0,3,Bank Transfer,177000.0,2026-07,Customer_8,Daegu,Regular
+5208,1044,2026-05-14,Home & Kitchen,Air Fryer,99000.0,1,Card,99000.0,2026-05,Customer_44,Seoul,Premium
+5160,1050,2026-07-07,Fashion,Winter Jacket,159000.0,4,KakaoPay,636000.0,2026-07,Customer_50,Seoul,Premium
+5115,1016,2026-06-06,Electronics,Smart Watch,189000.0,2,Unknown,378000.0,2026-06,Customer_16,Seoul,Regular
+5300,1003,2026-06-14,Beauty,Hand Cream,12000.0,2,KakaoPay,24000.0,2026-06,Customer_3,Daejeon,Regular
+5209,1025,2026-04-19,Electronics,Phone Charger,25000.0,1,Card,25000.0,2026-04,Customer_25,Daegu,Regular
+5265,1050,2026-03-19,Beauty,Hand Cream,12000.0,3,Bank Transfer,36000.0,2026-03,Customer_50,Seoul,Premium
+5173,1036,2026-07-16,Beauty,Hand Cream,12000.0,3,Bank Transfer,36000.0,2026-07,Customer_36,Seoul,Regular
+5100,1010,2026-07-24,Beauty,Hand Cream,12000.0,1,Bank Transfer,12000.0,2026-07,Customer_10,Busan,Regular
+5148,1043,2026-07-30,Home & Kitchen,Air Fryer,99000.0,4,KakaoPay,396000.0,2026-07,Customer_43,Daegu,Regular
+5246,1037,2026-08-06,Home & Kitchen,Rice Cooker,129000.0,3,Bank Transfer,387000.0,2026-08,Customer_37,Seoul,Regular
+5025,1042,2026-03-13,Electronics,Wireless Earbuds,59000.0,4,Card,236000.0,2026-03,Customer_42,Daejeon,Regular
+5185,1036,2026-08-02,Electronics,Smart Watch,189000.0,3,KakaoPay,567000.0,2026-08,Customer_36,Seoul,Regular
+5260,1010,2026-08-23,Home & Kitchen,Air Fryer,99000.0,2,KakaoPay,198000.0,2026-08,Customer_10,Busan,Regular
+5161,1039,2026-08-25,Beauty,Face Serum,45000.0,3,Bank Transfer,135000.0,2026-08,Customer_39,Seoul,Regular
+5063,1032,2026-07-02,Beauty,Face Serum,45000.0,1,Card,45000.0,2026-07,Customer_32,Gwangju,Regular
+5254,1021,2026-05-09,Fashion,Winter Jacket,159000.0,1,KakaoPay,159000.0,2026-05,Customer_21,Daegu,Regular
+5079,1027,2026-07-01,Home & Kitchen,Rice Cooker,129000.0,3,Bank Transfer,387000.0,2026-07,Customer_27,Busan,Regular
+5127,1026,2026-08-21,Fashion,Winter Jacket,159000.0,4,Bank Transfer,636000.0,2026-08,Customer_26,Seoul,Regular
+5051,1009,2026-04-05,Fashion,Running Shoes,89000.0,2,Card,178000.0,2026-04,Customer_9,Seoul,Regular
+5213,1047,2026-04-14,Fashion,Running Shoes,89000.0,2,Card,178000.0,2026-04,Customer_47,Busan,Regular
+5129,1040,2026-04-18,Fashion,Winter Jacket,159000.0,1,Card,159000.0,2026-04,Customer_40,Incheon,Premium
+5128,1047,2026-03-24,Fashion,Backpack,49000.0,4,Unknown,196000.0,2026-03,Customer_47,Busan,Regular
+5146,1015,2026-04-04,Fashion,Running Shoes,89000.0,1,KakaoPay,89000.0,2026-04,Customer_15,Busan,Regular
+5053,1026,2026-08-25,Beauty,Sunscreen,22000.0,3,Bank Transfer,66000.0,2026-08,Customer_26,Seoul,Regular
+5062,1043,2026-08-22,Home & Kitchen,Rice Cooker,129000.0,4,KakaoPay,516000.0,2026-08,Customer_43,Daegu,Regular
+5293,1001,2026-07-14,Home & Kitchen,Rice Cooker,129000.0,3,Bank Transfer,387000.0,2026-07,Customer_1,Daegu,Regular
+5283,1009,2026-03-27,Beauty,Hand Cream,12000.0,2,KakaoPay,24000.0,2026-03,Customer_9,Seoul,Regular
+5029,1012,2026-04-01,Beauty,Sunscreen,22000.0,2,Card,44000.0,2026-04,Customer_12,Gwangju,Regular
+5070,1032,2026-07-16,Fashion,Winter Jacket,159000.0,1,Card,159000.0,2026-07,Customer_32,Gwangju,Regular
+5037,1006,2026-07-30,Electronics,Phone Charger,25000.0,3,Unknown,75000.0,2026-07,Customer_6,Gwangju,Regular
+5041,1040,2026-04-15,Home & Kitchen,Water Bottle,18000.0,2,Card,36000.0,2026-04,Customer_40,Incheon,Premium
+5156,1009,2026-05-10,Fashion,Winter Jacket,159000.0,2,KakaoPay,318000.0,2026-05,Customer_9,Seoul,Regular
+5262,1048,2026-03-17,Electronics,Phone Charger,25000.0,1,KakaoPay,25000.0,2026-03,Customer_48,Seoul,Regular
+5012,9999,2026-04-26,Home & Kitchen,Rice Cooker,129000.0,3,Bank Transfer,387000.0,2026-04,Unknown,Unknown,Unknown
+5291,1038,2026-03-10,Fashion,Winter Jacket,159000.0,3,Bank Transfer,477000.0,2026-03,Customer_38,Busan,Regular
+5278,1013,2026-04-29,Fashion,Running Shoes,89000.0,2,Card,178000.0,2026-04,Customer_13,Incheon,Premium
+5259,1045,2026-06-14,Home & Kitchen,Water Bottle,18000.0,2,Card,36000.0,2026-06,Customer_45,Daejeon,Premium
+5194,1013,2026-08-01,Electronics,Wireless Earbuds,59000.0,2,Card,118000.0,2026-08,Customer_13,Incheon,Premium
+5169,1021,2026-04-13,Home & Kitchen,Water Bottle,18000.0,1,Bank Transfer,18000.0,2026-04,Customer_21,Daegu,Regular
+5228,1045,2026-03-23,Beauty,Sunscreen,22000.0,1,KakaoPay,22000.0,2026-03,Customer_45,Daejeon,Premium
+5099,1013,2026-04-14,Beauty,Sunscreen,22000.0,2,Card,44000.0,2026-04,Customer_13,Incheon,Premium
+5175,1012,2026-08-11,Home & Kitchen,Air Fryer,99000.0,1,KakaoPay,99000.0,2026-08,Customer_12,Gwangju,Regular
+5047,1030,2026-05-25,Beauty,Sunscreen,22000.0,2,Card,44000.0,2026-05,Customer_30,Incheon,Regular
+5263,1006,2026-08-07,Fashion,Winter Jacket,159000.0,1,Card,159000.0,2026-08,Customer_6,Gwangju,Regular
+5214,1036,2026-08-03,Home & Kitchen,Rice Cooker,129000.0,1,Card,129000.0,2026-08,Customer_36,Seoul,Regular
+5268,1031,2026-07-12,Beauty,Hand Cream,12000.0,2,KakaoPay,24000.0,2026-07,Customer_31,Daegu,Regular
+5139,1011,2026-06-30,Home & Kitchen,Air Fryer,99000.0,4,KakaoPay,396000.0,2026-06,Customer_11,Busan,Regular
+5109,1036,2026-03-18,Electronics,Wireless Earbuds,59000.0,3,Bank Transfer,177000.0,2026-03,Customer_36,Seoul,Regular
+5272,1039,2026-03-06,Electronics,Smart Watch,189000.0,1,Card,189000.0,2026-03,Customer_39,Seoul,Regular
+5299,1009,2026-06-09,Fashion,Winter Jacket,159000.0,1,Bank Transfer,159000.0,2026-06,Customer_9,Seoul,Regular
+5016,1042,2026-04-25,Fashion,Winter Jacket,159000.0,2,Bank Transfer,318000.0,2026-04,Customer_42,Daejeon,Regular
+5114,1029,2026-08-05,Home & Kitchen,Rice Cooker,129000.0,2,Card,258000.0,2026-08,Customer_29,Seoul,Regular
+5008,1047,2026-05-19,Fashion,Winter Jacket,159000.0,1,KakaoPay,159000.0,2026-05,Customer_47,Busan,Regular
+5273,1007,2026-05-13,Fashion,Backpack,49000.0,1,Bank Transfer,49000.0,2026-05,Customer_7,Daegu,Regular
+5149,1034,2026-05-13,Fashion,Winter Jacket,159000.0,4,Bank Transfer,636000.0,2026-05,Customer_34,Busan,Regular
+5233,1027,2026-05-14,Electronics,Smart Watch,189000.0,1,KakaoPay,189000.0,2026-05,Customer_27,Busan,Regular
+5009,1014,2026-07-24,Fashion,Winter Jacket,159000.0,4,Card,636000.0,2026-07,Customer_14,Daejeon,Regular
+5028,1026,2026-05-29,Home & Kitchen,Water Bottle,18000.0,2,Card,36000.0,2026-05,Customer_26,Seoul,Regular
+5295,1008,2026-05-18,Beauty,Sunscreen,22000.0,4,KakaoPay,88000.0,2026-05,Customer_8,Daegu,Regular
+5059,1046,2026-07-23,Beauty,Hand Cream,12000.0,1,Bank Transfer,12000.0,2026-07,Customer_46,Daejeon,Regular
+5223,1016,2026-03-27,Fashion,Backpack,49000.0,3,Bank Transfer,147000.0,2026-03,Customer_16,Seoul,Regular
+5249,1046,2026-07-19,Home & Kitchen,Air Fryer,99000.0,3,Bank Transfer,297000.0,2026-07,Customer_46,Daejeon,Regular
+5237,1013,2026-07-30,Beauty,Hand Cream,12000.0,3,KakaoPay,36000.0,2026-07,Customer_13,Incheon,Premium
+5032,1036,2026-03-05,Beauty,Hand Cream,12000.0,1,Bank Transfer,12000.0,2026-03,Customer_36,Seoul,Regular
+5002,1003,2026-07-20,Beauty,Face Serum,45000.0,1,KakaoPay,45000.0,2026-07,Customer_3,Daejeon,Regular
+5190,1038,2026-08-21,Beauty,Hand Cream,12000.0,3,KakaoPay,36000.0,2026-08,Customer_38,Busan,Regular
+5014,1006,2026-04-27,Beauty,Hand Cream,12000.0,3,Bank Transfer,36000.0,2026-04,Customer_6,Gwangju,Regular
+5010,1022,2026-07-31,Fashion,Winter Jacket,159000.0,2,Card,318000.0,2026-07,Customer_22,Busan,Regular
+5290,1018,2026-08-15,Fashion,Running Shoes,89000.0,1,Bank Transfer,89000.0,2026-08,Customer_18,Seoul,Regular
+5096,1015,2026-07-02,Electronics,Smart Watch,189000.0,4,Unknown,756000.0,2026-07,Customer_15,Busan,Regular
+5035,1048,2026-04-26,Fashion,Winter Jacket,159000.0,3,Card,477000.0,2026-04,Customer_48,Seoul,Regular
+5097,1050,2026-06-28,Electronics,Wireless Earbuds,59000.0,1,KakaoPay,59000.0,2026-06,Customer_50,Seoul,Premium
+5186,1046,2026-05-29,Electronics,Phone Charger,25000.0,1,KakaoPay,25000.0,2026-05,Customer_46,Daejeon,Regular
+5189,1018,2026-08-06,Beauty,Face Serum,45000.0,2,KakaoPay,90000.0,2026-08,Customer_18,Seoul,Regular
+5154,1025,2026-06-13,Home & Kitchen,Rice Cooker,129000.0,4,KakaoPay,516000.0,2026-06,Customer_25,Daegu,Regular
+5244,1009,2026-04-17,Home & Kitchen,Water Bottle,18000.0,3,Card,54000.0,2026-04,Customer_9,Seoul,Regular
+5046,1041,2026-07-30,Beauty,Hand Cream,12000.0,4,Card,48000.0,2026-07,Customer_41,Busan,Premium
+5217,1032,2026-07-06,Electronics,Wireless Earbuds,59000.0,2,Card,118000.0,2026-07,Customer_32,Gwangju,Regular
+5033,1007,2026-05-18,Beauty,Sunscreen,22000.0,3,Bank Transfer,66000.0,2026-05,Customer_7,Daegu,Regular
+5078,1029,2026-03-24,Electronics,Wireless Earbuds,59000.0,1,KakaoPay,59000.0,2026-03,Customer_29,Seoul,Regular
+5238,1020,2026-06-03,Electronics,Phone Charger,25000.0,4,Bank Transfer,100000.0,2026-06,Customer_20,Incheon,Premium
+5134,1043,2026-07-06,Home & Kitchen,Water Bottle,18000.0,2,Unknown,36000.0,2026-07,Customer_43,Daegu,Regular
+5145,1046,2026-04-13,Home & Kitchen,Air Fryer,99000.0,4,Card,396000.0,2026-04,Customer_46,Daejeon,Regular
+5157,1002,2026-04-16,Home & Kitchen,Air Fryer,99000.0,3,Bank Transfer,297000.0,2026-04,Customer_2,Busan,Regular
+5064,1024,2026-05-18,Electronics,Wireless Earbuds,59000.0,1,KakaoPay,59000.0,2026-05,Customer_24,Daejeon,Regular
+5083,1034,2026-04-07,Beauty,Hand Cream,12000.0,2,KakaoPay,24000.0,2026-04,Customer_34,Busan,Regular
+5239,1029,2026-07-16,Fashion,Backpack,49000.0,2,Bank Transfer,98000.0,2026-07,Customer_29,Seoul,Regular
+5231,1001,2026-08-14,Home & Kitchen,Air Fryer,99000.0,3,Bank Transfer,297000.0,2026-08,Customer_1,Daegu,Regular
+5240,1021,2026-03-27,Fashion,Backpack,49000.0,4,KakaoPay,196000.0,2026-03,Customer_21,Daegu,Regular
+5042,1031,2026-07-16,Home & Kitchen,Rice Cooker,129000.0,4,Bank Transfer,516000.0,2026-07,Customer_31,Daegu,Regular
+5178,1034,2026-06-18,Fashion,Backpack,49000.0,2,Card,98000.0,2026-06,Customer_34,Busan,Regular
+5165,1050,2026-03-20,Home & Kitchen,Water Bottle,18000.0,1,Card,18000.0,2026-03,Customer_50,Seoul,Premium
+5110,1003,2026-05-31,Fashion,Winter Jacket,159000.0,1,KakaoPay,159000.0,2026-05,Customer_3,Daejeon,Regular
+5182,1018,2026-06-30,Fashion,Running Shoes,89000.0,2,Bank Transfer,178000.0,2026-06,Customer_18,Seoul,Regular
+5224,1011,2026-04-23,Electronics,Phone Charger,25000.0,3,KakaoPay,75000.0,2026-04,Customer_11,Busan,Regular
+5122,1002,2026-08-13,Fashion,Running Shoes,89000.0,2,KakaoPay,178000.0,2026-08,Customer_2,Busan,Regular
+5052,1035,2026-06-01,Home & Kitchen,Rice Cooker,129000.0,4,KakaoPay,516000.0,2026-06,Customer_35,Busan,Regular
+5057,1006,2026-08-08,Beauty,Face Serum,45000.0,1,Bank Transfer,45000.0,2026-08,Customer_6,Gwangju,Regular
+5250,1005,2026-05-30,Beauty,Hand Cream,12000.0,1,Card,12000.0,2026-05,Customer_5,Seoul,Regular
+5159,1014,2026-05-14,Fashion,Running Shoes,89000.0,1,Bank Transfer,89000.0,2026-05,Customer_14,Daejeon,Regular
+5086,1047,2026-03-16,Beauty,Sunscreen,22000.0,3,KakaoPay,66000.0,2026-03,Customer_47,Busan,Regular
+5121,1011,2026-07-30,Electronics,Phone Charger,25000.0,4,KakaoPay,100000.0,2026-07,Customer_11,Busan,Regular
+5296,1047,2026-03-28,Home & Kitchen,Rice Cooker,129000.0,3,Card,387000.0,2026-03,Customer_47,Busan,Regular
+5298,1024,2026-03-14,Fashion,Winter Jacket,159000.0,3,Bank Transfer,477000.0,2026-03,Customer_24,Daejeon,Regular
+5288,1038,2026-07-26,Electronics,Smart Watch,189000.0,2,KakaoPay,378000.0,2026-07,Customer_38,Busan,Regular
+5236,1030,2026-03-10,Electronics,Wireless Earbuds,59000.0,1,Card,59000.0,2026-03,Customer_30,Incheon,Regular
+5215,1007,2026-04-27,Fashion,Running Shoes,89000.0,2,Bank Transfer,178000.0,2026-04,Customer_7,Daegu,Regular
+5088,1040,2026-05-04,Beauty,Hand Cream,12000.0,3,KakaoPay,36000.0,2026-05,Customer_40,Incheon,Premium
+5166,1038,2026-08-22,Beauty,Hand Cream,12000.0,3,KakaoPay,36000.0,2026-08,Customer_38,Busan,Regular
+5256,1020,2026-05-05,Home & Kitchen,Rice Cooker,129000.0,4,Card,516000.0,2026-05,Customer_20,Incheon,Premium
+5106,1007,2026-03-21,Home & Kitchen,Air Fryer,99000.0,3,KakaoPay,297000.0,2026-03,Customer_7,Daegu,Regular
+5247,1026,2026-05-14,Fashion,Winter Jacket,159000.0,1,Bank Transfer,159000.0,2026-05,Customer_26,Seoul,Regular
+5183,1050,2026-06-05,Home & Kitchen,Water Bottle,18000.0,3,Card,54000.0,2026-06,Customer_50,Seoul,Premium
+5050,1006,2026-05-22,Fashion,Running Shoes,89000.0,3,Card,267000.0,2026-05,Customer_6,Gwangju,Regular
+5222,1050,2026-08-11,Beauty,Face Serum,45000.0,1,KakaoPay,45000.0,2026-08,Customer_50,Seoul,Premium
+5006,1048,2026-03-28,Home & Kitchen,Air Fryer,99000.0,2,KakaoPay,198000.0,2026-03,Customer_48,Seoul,Regular
+5018,1013,2026-08-10,Fashion,Winter Jacket,159000.0,4,Bank Transfer,636000.0,2026-08,Customer_13,Incheon,Premium
+5297,1024,2026-07-08,Home & Kitchen,Water Bottle,18000.0,2,KakaoPay,36000.0,2026-07,Customer_24,Daejeon,Regular
+5117,1026,2026-05-23,Electronics,Wireless Earbuds,59000.0,3,KakaoPay,177000.0,2026-05,Customer_26,Seoul,Regular
+5245,1046,2026-08-25,Beauty,Hand Cream,12000.0,1,Card,12000.0,2026-08,Customer_46,Daejeon,Regular
+5188,1001,2026-06-08,Home & Kitchen,Air Fryer,99000.0,2,KakaoPay,198000.0,2026-06,Customer_1,Daegu,Regular
+5163,1006,2026-03-14,Home & Kitchen,Water Bottle,18000.0,3,Bank Transfer,54000.0,2026-03,Customer_6,Gwangju,Regular
+5135,1031,2026-04-13,Fashion,Running Shoes,89000.0,3,Card,267000.0,2026-04,Customer_31,Daegu,Regular
+5289,1047,2026-07-28,Beauty,Sunscreen,22000.0,2,KakaoPay,44000.0,2026-07,Customer_47,Busan,Regular
+5191,1045,2026-05-02,Beauty,Sunscreen,22000.0,2,Card,44000.0,2026-05,Customer_45,Daejeon,Premium
+5065,1019,2026-04-30,Fashion,Running Shoes,89000.0,3,KakaoPay,267000.0,2026-04,Customer_19,Daejeon,Regular
+5027,1016,2026-04-20,Electronics,Wireless Earbuds,59000.0,4,Unknown,236000.0,2026-04,Customer_16,Seoul,Regular
+5221,1046,2026-04-14,Home & Kitchen,Air Fryer,99000.0,2,KakaoPay,198000.0,2026-04,Customer_46,Daejeon,Regular
+5170,1028,2026-04-09,Fashion,Running Shoes,89000.0,3,Bank Transfer,267000.0,2026-04,Customer_28,Seoul,Regular
+5181,1045,2026-06-07,Electronics,Wireless Earbuds,59000.0,4,Card,236000.0,2026-06,Customer_45,Daejeon,Premium
+5101,1002,2026-08-11,Home & Kitchen,Rice Cooker,129000.0,1,Card,129000.0,2026-08,Customer_2,Busan,Regular
+5198,1041,2026-04-16,Fashion,Backpack,49000.0,3,Bank Transfer,147000.0,2026-04,Customer_41,Busan,Premium
+5210,1040,2026-06-08,Home & Kitchen,Rice Cooker,129000.0,2,Bank Transfer,258000.0,2026-06,Customer_40,Incheon,Premium
+5136,1048,2026-05-30,Fashion,Winter Jacket,159000.0,1,Bank Transfer,159000.0,2026-05,Customer_48,Seoul,Regular
+5294,1004,2026-08-06,Home & Kitchen,Air Fryer,99000.0,2,KakaoPay,198000.0,2026-08,Customer_4,Incheon,Premium
+5270,1030,2026-05-07,Electronics,Smart Watch,189000.0,3,Bank Transfer,567000.0,2026-05,Customer_30,Incheon,Regular
+5199,1010,2026-05-24,Home & Kitchen,Water Bottle,18000.0,1,Unknown,18000.0,2026-05,Customer_10,Busan,Regular
+5118,1006,2026-03-24,Beauty,Face Serum,45000.0,4,Unknown,180000.0,2026-03,Customer_6,Gwangju,Regular
+5167,1003,2026-04-23,Electronics,Wireless Earbuds,59000.0,3,Bank Transfer,177000.0,2026-04,Customer_3,Daejeon,Regular
+5232,1007,2026-05-09,Fashion,Winter Jacket,159000.0,3,Bank Transfer,477000.0,2026-05,Customer_7,Daegu,Regular
+5137,1016,2026-05-16,Home & Kitchen,Water Bottle,18000.0,4,Bank Transfer,72000.0,2026-05,Customer_16,Seoul,Regular
+5030,1007,2026-08-22,Electronics,Smart Watch,189000.0,2,KakaoPay,378000.0,2026-08,Customer_7,Daegu,Regular
+5080,1025,2026-06-02,Beauty,Hand Cream,12000.0,1,KakaoPay,12000.0,2026-06,Customer_25,Daegu,Regular
+5205,1020,2026-06-23,Beauty,Sunscreen,22000.0,4,Card,88000.0,2026-06,Customer_20,Incheon,Premium
+5141,1028,2026-08-20,Beauty,Hand Cream,12000.0,1,Bank Transfer,12000.0,2026-08,Customer_28,Seoul,Regular
+5158,1016,2026-05-15,Fashion,Winter Jacket,159000.0,1,KakaoPay,159000.0,2026-05,Customer_16,Seoul,Regular
+5132,1017,2026-06-10,Electronics,Wireless Earbuds,59000.0,2,Card,118000.0,2026-06,Customer_17,Incheon,Regular
+5040,1001,2026-07-31,Fashion,Backpack,49000.0,3,Card,147000.0,2026-07,Customer_1,Daegu,Regular
+5179,1018,2026-06-03,Home & Kitchen,Water Bottle,18000.0,4,Bank Transfer,72000.0,2026-06,Customer_18,Seoul,Regular
+5206,1011,2026-05-20,Beauty,Hand Cream,12000.0,4,Card,48000.0,2026-05,Customer_11,Busan,Regular
+5216,1010,2026-08-15,Electronics,Wireless Earbuds,59000.0,4,Card,236000.0,2026-08,Customer_10,Busan,Regular
+5235,1034,2026-05-01,Electronics,Wireless Earbuds,59000.0,4,Bank Transfer,236000.0,2026-05,Customer_34,Busan,Regular
+5055,1013,2026-04-11,Beauty,Sunscreen,22000.0,3,KakaoPay,66000.0,2026-04,Customer_13,Incheon,Premium
+5124,1036,2026-06-15,Home & Kitchen,Rice Cooker,129000.0,3,KakaoPay,387000.0,2026-06,Customer_36,Seoul,Regular
+5201,1022,2026-08-16,Beauty,Face Serum,45000.0,1,Card,45000.0,2026-08,Customer_22,Busan,Regular
+5044,1033,2026-03-21,Beauty,Face Serum,45000.0,4,Bank Transfer,180000.0,2026-03,Customer_33,Seoul,Regular
+5266,1004,2026-06-14,Home & Kitchen,Water Bottle,18000.0,2,Card,36000.0,2026-06,Customer_4,Incheon,Premium
+5049,1009,2026-06-16,Beauty,Hand Cream,12000.0,1,Card,12000.0,2026-06,Customer_9,Seoul,Regular
+5036,1002,2026-05-29,Beauty,Hand Cream,12000.0,3,KakaoPay,36000.0,2026-05,Customer_2,Busan,Regular
+5060,1039,2026-06-13,Home & Kitchen,Water Bottle,18000.0,3,KakaoPay,54000.0,2026-06,Customer_39,Seoul,Regular
+5144,1024,2026-05-26,Electronics,Phone Charger,25000.0,4,Card,100000.0,2026-05,Customer_24,Daejeon,Regular
+5054,1003,2026-06-05,Beauty,Hand Cream,12000.0,2,Unknown,24000.0,2026-06,Customer_3,Daejeon,Regular
+5021,1045,2026-04-10,Beauty,Hand Cream,12000.0,1,KakaoPay,12000.0,2026-04,Customer_45,Daejeon,Premium
+5125,1016,2026-06-19,Fashion,Winter Jacket,159000.0,1,Bank Transfer,159000.0,2026-06,Customer_16,Seoul,Regular
+5143,1005,2026-04-29,Beauty,Face Serum,45000.0,4,Bank Transfer,180000.0,2026-04,Customer_5,Seoul,Regular
+5111,1045,2026-04-09,Electronics,Wireless Earbuds,59000.0,2,Bank Transfer,118000.0,2026-04,Customer_45,Daejeon,Premium
+5257,1035,2026-04-25,Home & Kitchen,Air Fryer,99000.0,2,KakaoPay,198000.0,2026-04,Customer_35,Busan,Regular
+5077,1005,2026-03-10,Fashion,Winter Jacket,159000.0,3,KakaoPay,477000.0,2026-03,Customer_5,Seoul,Regular
+5284,1013,2026-03-30,Beauty,Sunscreen,22000.0,2,Card,44000.0,2026-03,Customer_13,Incheon,Premium
+5275,1021,2026-06-26,Fashion,Running Shoes,89000.0,1,KakaoPay,89000.0,2026-06,Customer_21,Daegu,Regular
+5108,1037,2026-07-25,Home & Kitchen,Air Fryer,99000.0,2,Card,198000.0,2026-07,Customer_37,Seoul,Regular
+5094,1016,2026-03-03,Home & Kitchen,Rice Cooker,129000.0,3,Bank Transfer,387000.0,2026-03,Customer_16,Seoul,Regular
+5013,9999,2026-04-13,Electronics,Wireless Earbuds,59000.0,3,Bank Transfer,177000.0,2026-04,Unknown,Unknown,Unknown
+5017,1048,2026-04-06,Beauty,Sunscreen,22000.0,3,Card,66000.0,2026-04,Customer_48,Seoul,Regular
+5048,1016,2026-04-27,Electronics,Smart Watch,189000.0,4,Card,756000.0,2026-04,Customer_16,Seoul,Regular
+5187,1019,2026-03-19,Home & Kitchen,Air Fryer,99000.0,1,Card,99000.0,2026-03,Customer_19,Daejeon,Regular
+5204,1016,2026-07-21,Home & Kitchen,Rice Cooker,129000.0,1,Card,129000.0,2026-07,Customer_16,Seoul,Regular
+5269,1013,2026-03-15,Fashion,Running Shoes,89000.0,2,Card,178000.0,2026-03,Customer_13,Incheon,Premium
+5120,1032,2026-05-12,Beauty,Face Serum,45000.0,4,KakaoPay,180000.0,2026-05,Customer_32,Gwangju,Regular
+5022,1039,2026-03-04,Home & Kitchen,Air Fryer,99000.0,2,KakaoPay,198000.0,2026-03,Customer_39,Seoul,Regular
+5084,1039,2026-07-26,Fashion,Backpack,49000.0,3,Card,147000.0,2026-07,Customer_39,Seoul,Regular
+5131,1043,2026-08-04,Electronics,Wireless Earbuds,59000.0,4,Card,236000.0,2026-08,Customer_43,Daegu,Regular
+5230,1026,2026-07-21,Electronics,Wireless Earbuds,59000.0,1,Bank Transfer,59000.0,2026-07,Customer_26,Seoul,Regular
+5034,1016,2026-08-23,Electronics,Phone Charger,25000.0,1,KakaoPay,25000.0,2026-08,Customer_16,Seoul,Regular
+5005,1018,2026-05-20,Beauty,Face Serum,45000.0,3,KakaoPay,135000.0,2026-05,Customer_18,Seoul,Regular
+5020,1045,2026-03-28,Beauty,Hand Cream,12000.0,1,Bank Transfer,12000.0,2026-03,Customer_45,Daejeon,Premium
+5220,1039,2026-08-09,Home & Kitchen,Air Fryer,99000.0,4,Bank Transfer,396000.0,2026-08,Customer_39,Seoul,Regular
+5276,1036,2026-08-06,Electronics,Wireless Earbuds,59000.0,1,Bank Transfer,59000.0,2026-08,Customer_36,Seoul,Regular
+5150,1019,2026-07-09,Fashion,Running Shoes,89000.0,3,KakaoPay,267000.0,2026-07,Customer_19,Daejeon,Regular
+5225,1004,2026-07-27,Fashion,Running Shoes,89000.0,4,Card,356000.0,2026-07,Customer_4,Incheon,Premium
+5248,1040,2026-06-05,Fashion,Backpack,49000.0,4,KakaoPay,196000.0,2026-06,Customer_40,Incheon,Premium
+5279,1045,2026-03-14,Electronics,Smart Watch,189000.0,1,Bank Transfer,189000.0,2026-03,Customer_45,Daejeon,Premium
+5152,1043,2026-07-03,Fashion,Backpack,49000.0,2,KakaoPay,98000.0,2026-07,Customer_43,Daegu,Regular
+5234,1003,2026-07-08,Electronics,Wireless Earbuds,59000.0,2,KakaoPay,118000.0,2026-07,Customer_3,Daejeon,Regular
+5011,9999,2026-03-02,Home & Kitchen,Water Bottle,18000.0,3,Card,54000.0,2026-03,Unknown,Unknown,Unknown
+5072,1007,2026-08-13,Fashion,Backpack,49000.0,4,KakaoPay,196000.0,2026-08,Customer_7,Daegu,Regular
+5253,1016,2026-06-21,Fashion,Winter Jacket,159000.0,2,KakaoPay,318000.0,2026-06,Customer_16,Seoul,Regular
+5093,1015,2026-05-17,Fashion,Backpack,49000.0,4,KakaoPay,196000.0,2026-05,Customer_15,Busan,Regular
+5193,1030,2026-04-08,Beauty,Hand Cream,12000.0,3,KakaoPay,36000.0,2026-04,Customer_30,Incheon,Regular
+5258,1013,2026-07-09,Electronics,Smart Watch,189000.0,1,Card,189000.0,2026-07,Customer_13,Incheon,Premium
+5196,1040,2026-04-15,Electronics,Phone Charger,25000.0,3,Bank Transfer,75000.0,2026-04,Customer_40,Incheon,Premium
+5138,1020,2026-07-14,Electronics,Smart Watch,189000.0,4,KakaoPay,756000.0,2026-07,Customer_20,Incheon,Premium
+5261,1013,2026-05-21,Electronics,Phone Charger,25000.0,1,Card,25000.0,2026-05,Customer_13,Incheon,Premium
+5039,1041,2026-07-11,Electronics,Smart Watch,189000.0,2,Unknown,378000.0,2026-07,Customer_41,Busan,Premium
+5202,1006,2026-07-12,Beauty,Hand Cream,12000.0,2,Card,24000.0,2026-07,Customer_6,Gwangju,Regular
+5252,1036,2026-07-23,Beauty,Face Serum,45000.0,4,Bank Transfer,180000.0,2026-07,Customer_36,Seoul,Regular
+5113,1023,2026-06-15,Home & Kitchen,Water Bottle,18000.0,3,Bank Transfer,54000.0,2026-06,Customer_23,Gwangju,Premium
+5184,1007,2026-06-05,Beauty,Face Serum,45000.0,1,Unknown,45000.0,2026-06,Customer_7,Daegu,Regular
+5153,1030,2026-04-24,Home & Kitchen,Water Bottle,18000.0,1,Bank Transfer,18000.0,2026-04,Customer_30,Incheon,Regular
+5192,1046,2026-08-08,Fashion,Running Shoes,89000.0,2,KakaoPay,178000.0,2026-08,Customer_46,Daejeon,Regular
+5045,1013,2026-06-04,Home & Kitchen,Rice Cooker,129000.0,2,Card,258000.0,2026-06,Customer_13,Incheon,Premium
+5007,1005,2026-03-12,Home & Kitchen,Water Bottle,18000.0,2,KakaoPay,36000.0,2026-03,Customer_5,Seoul,Regular
+5251,1002,2026-05-22,Home & Kitchen,Water Bottle,18000.0,1,Bank Transfer,18000.0,2026-05,Customer_2,Busan,Regular
+5076,1048,2026-08-15,Beauty,Hand Cream,12000.0,1,Card,12000.0,2026-08,Customer_48,Seoul,Regular
+5001,1033,2026-03-18,Electronics,Phone Charger,25000.0,3,Card,75000.0,2026-03,Customer_33,Seoul,Regular
+5069,1033,2026-05-28,Beauty,Hand Cream,12000.0,1,Bank Transfer,12000.0,2026-05,Customer_33,Seoul,Regular
+5168,1050,2026-08-05,Beauty,Face Serum,45000.0,4,KakaoPay,180000.0,2026-08,Customer_50,Seoul,Premium
+5219,1043,2026-04-20,Home & Kitchen,Air Fryer,99000.0,3,Unknown,297000.0,2026-04,Customer_43,Daegu,Regular
+5043,1021,2026-04-22,Beauty,Face Serum,45000.0,1,KakaoPay,45000.0,2026-04,Customer_21,Daegu,Regular
+5073,1037,2026-06-20,Fashion,Running Shoes,89000.0,3,Card,267000.0,2026-06,Customer_37,Seoul,Regular
+5024,1047,2026-03-01,Home & Kitchen,Air Fryer,99000.0,4,Card,396000.0,2026-03,Customer_47,Busan,Regular
+5104,1047,2026-08-22,Fashion,Backpack,49000.0,1,Bank Transfer,49000.0,2026-08,Customer_47,Busan,Regular
+5212,1035,2026-08-03,Beauty,Face Serum,45000.0,2,Card,90000.0,2026-08,Customer_35,Busan,Regular
+5068,1017,2026-07-17,Beauty,Face Serum,45000.0,2,KakaoPay,90000.0,2026-07,Customer_17,Incheon,Regular
+5026,1030,2026-05-06,Fashion,Running Shoes,89000.0,3,Bank Transfer,267000.0,2026-05,Customer_30,Incheon,Regular
+5197,1024,2026-08-02,Fashion,Winter Jacket,159000.0,4,Unknown,636000.0,2026-08,Customer_24,Daejeon,Regular
+5176,1001,2026-05-19,Electronics,Smart Watch,189000.0,4,KakaoPay,756000.0,2026-05,Customer_1,Daegu,Regular
